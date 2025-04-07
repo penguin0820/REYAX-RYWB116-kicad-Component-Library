@@ -10,7 +10,7 @@ This repository contains the KiCad6.0 up library files for the **REYAX RYWB116**
 
 ## About the Module
 
-The **REYAX RYWB116** is a compact Wi-Fi + Bluetooth module based on the ESP32 series, suitable for IoT, wireless communication, and embedded applications.
+The **REYAX RYWB116** is a compact Wi-Fi + Bluetooth module based on Redpine Signals' RS9116 technology, suitable for IoT, wireless communication, and embedded applications.
 
 ## Usage
 
